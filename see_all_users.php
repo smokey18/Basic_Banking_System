@@ -45,7 +45,7 @@
                         <td class="py-2"><?php echo $rows['name']?></td>
                         <td class="py-2"><?php echo $rows['email']?></td>
                         <td class="py-2"><?php echo $rows['balance']?></td>
-                        <td><a href="transfer_to_user.php?id= <?php echo $rows['id'] ;?>"> <button type="button" class="btn" style="background-color : #1c92d2;">Transaction</button></a></td> 
+                        <td><a href="transfer_to_user.php?id= <?php echo $rows['id'] ;?>"> <button type="button" class="btn" style="background-image: linear-gradient(to right, #4b6cb7 , #1CB5E0);">Transaction</button></a></td> 
                     </tr>
                 <?php
                     }

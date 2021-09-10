@@ -17,18 +17,19 @@
   ?>
   
       <div class="container-fluid">
-        <div class="heading text-center pt-4">
+        <div class="heading text-center pt-4" style='background-image: linear-gradient(to right, #7F7FD5 , #86A8E7 , #91EAE4);'>
           <h2>Basic Banking System</h2>
           <p>A spark foundation internship project for web development</p>
           <hr>
+      </div>
 
         <div class="row text-center">
           <div class="col-md">
             <u>
-            <a href="see_all_users.php"><button class="btn" style="background-color : #1c92d2;">See All Users</button></a>
+            <a href="see_all_users.php"><button class="btn" style="background-image: linear-gradient(to right, #4b6cb7 , #1CB5E0);">See All Users</button></a>
             <br>
             <br>
-            <a href="history_of_transaction.php"><button class="btn" style="background-color : #1c92d2;">Transaction History</button></a>
+            <a href="history_of_transaction.php"><button class="btn" style="background-image: linear-gradient(to right, #4b6cb7 , #1CB5E0);">Transaction History</button></a>
             </u>
           </div>
         </div>

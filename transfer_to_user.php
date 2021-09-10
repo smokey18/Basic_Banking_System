@@ -141,7 +141,7 @@ if(isset($_POST['submit']))
             <label style="color : black;"><b>Amount:</b></label>
             <input type="number" class="form-control" name="amount" required>
             <div class="text-center" >
-                <button class="btn mt-3" name="submit" type="submit">Transfer Now</button>
+                <button class="btn mt-3" name="submit" type="submit" style="background-image: linear-gradient(to right, #4b6cb7 , #1CB5E0);">Transfer Now</button>
             </div>
         </form>
     </div>
